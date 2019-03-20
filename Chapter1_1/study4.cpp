@@ -1,5 +1,7 @@
 #include <iostream> // cout, cin, endl, ...
 
+using namespace std;
+
 int main()
 {
 	using namespace std;
