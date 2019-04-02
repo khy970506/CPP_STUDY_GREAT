@@ -54,6 +54,9 @@
     <ClCompile Include="study2_3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="study3_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">

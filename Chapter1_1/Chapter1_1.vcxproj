@@ -187,7 +187,10 @@
     <ClCompile Include="study2_2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="study2_3.cpp" />
+    <ClCompile Include="study2_3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="study3_1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h" />
